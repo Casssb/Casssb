@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Cas:
+# 👋 Hi, I'm Cas
 🚀 I'm learning full-stack web devlopment<br>
 🔭 I’m working my way through The Odin Project<br>
 🌱 I’m currently learning React & Tailwind<br>
